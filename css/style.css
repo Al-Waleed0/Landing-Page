@@ -130,7 +130,7 @@ a {
 }
 
 .call-container {
-    height: 200px;
+    height: 300px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -138,7 +138,7 @@ a {
 
 .call-box {
     width: 1100px;
-    height: 120px;
+    height: 150px;
     background-color: #3882F6;
     border-radius: 8px;
     display: flex;
@@ -165,4 +165,13 @@ a {
     width: 150px;
     border: 2px solid white;
     border-radius: 12px;
+}
+
+.footer-container {
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
 }
