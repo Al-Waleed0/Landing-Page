@@ -105,3 +105,25 @@ a {
     text-align: center;
     gap: 5px;
 }
+
+.quote-container {
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+}
+
+.quote-text {
+    width: 782px;
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 300;
+}
+
+.quote-author-text {
+    margin-left: 340px;
+    font-size: 20px;
+    font-weight: bold;
+}
